@@ -1,6 +1,7 @@
 <h1>🦊 Classic Tabs for Firefox</h1>
 
 ![preview](preview/preview.png)
+*In this screenshot I use this theme [https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)*
 
 ## 💾 INSTALL
 
@@ -20,6 +21,9 @@
 
 8. **Restart** Firefox to apply the changes
 
-## 🎨 Try these themes for Mozilla Firefox
-[https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
+## 🔰 Try my add-on saveIN for Firefox
+**saveIN** : Your personal bookmarks in sidebar with vertical tabs  
+[https://addons.mozilla.org/en-US/firefox/addon/savein/](https://addons.mozilla.org/en-US/firefox/addon/savein/) 
+
+## 🎨 An other theme feel good with classic tabs
 [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)
