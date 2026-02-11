@@ -1,5 +1,7 @@
 <h1>🦊 Classic Tabs for Firefox</h1>
 
+The first step is to go to the **INSTALL** section, **and then you can install a theme**
+
 ![preview](preview/preview.png)
 - In this screenshot I use this theme [https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
 - The add-on in the SIDEBAR is **saveIN** available on [https://addons.mozilla.org/en-US/firefox/addon/savein/](https://addons.mozilla.org/en-US/firefox/addon/savein/)
