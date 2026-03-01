@@ -24,5 +24,6 @@ The first step is to go to the **INSTALL** section, **and then you can install a
 
 8. **Restart** Firefox to apply the changes
 
-## 🎨 An other theme feel good with classic tabs
+## 🎨 Other themes that fit well with classic tabs
+[https://addons.mozilla.org/en-US/firefox/addon/the-black-window/](https://addons.mozilla.org/en-US/firefox/addon/the-black-window/)  
 [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)
