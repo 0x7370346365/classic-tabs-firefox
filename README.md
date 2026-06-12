@@ -1,8 +1,10 @@
 <h1>🦊 Classic Tabs for Firefox</h1>
 
-IMPORTANT : The first step is to go to the **INSTALL** section, **and then you can install a THEME**
+<ins>**IMPORTANT :**</ins> The first step is to go to the **INSTALL** section, **and then you can install a THEME**
 
-![preview](preview/preview.png)
+![preview](preview/preview.png)  
+<br>
+*In this screenshot I use this theme [https://addons.mozilla.org/fr/firefox/addon/profiles_violet](https://addons.mozilla.org/fr/firefox/addon/profiles_violet)*
 
 ## 💾 INSTALL
 
@@ -24,8 +26,13 @@ IMPORTANT : The first step is to go to the **INSTALL** section, **and then you c
 
 
 ## Some themes that fit well with classic tabs :  
-[https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
-[https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)  
-[https://addons.mozilla.org/en-US/firefox/addon/horizon3000](https://addons.mozilla.org/en-US/firefox/addon/horizon3000)  
-
-and new default themes from Firefox...
+* [https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
+* [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)  
+* [https://addons.mozilla.org/en-US/firefox/addon/horizon3000](https://addons.mozilla.org/en-US/firefox/addon/horizon3000)  
+* [https://addons.mozilla.org/fr/firefox/addon/profiles_blue](https://addons.mozilla.org/fr/firefox/addon/profiles_blue)  
+* [https://addons.mozilla.org/fr/firefox/addon/profiles_cyan](https://addons.mozilla.org/fr/firefox/addon/profiles_cyan)  
+* [https://addons.mozilla.org/fr/firefox/addon/profiles_green](https://addons.mozilla.org/fr/firefox/addon/profiles_green)  
+* [https://addons.mozilla.org/fr/firefox/addon/profiles_orange](https://addons.mozilla.org/fr/firefox/addon/profiles_orange)  
+* [https://addons.mozilla.org/fr/firefox/addon/profiles_pink](https://addons.mozilla.org/fr/firefox/addon/profiles_pink)  
+* [https://addons.mozilla.org/fr/firefox/addon/profiles_purple](https://addons.mozilla.org/fr/firefox/addon/profiles_purple)  
+* [https://addons.mozilla.org/fr/firefox/addon/profiles_red](https://addons.mozilla.org/fr/firefox/addon/profiles_red)  
