@@ -4,7 +4,7 @@
 
 ![preview](preview/preview.png)  
 <br>
-In this screenshot I use this theme [https://addons.mozilla.org/fr/firefox/addon/profiles_violet](https://addons.mozilla.org/fr/firefox/addon/profiles_violet)  
+In this screenshot I use this theme [https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor](https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor)  
 The add-on in sidebar is [saveIN : Your personal bookmarks](https://addons.mozilla.org/en-US/firefox/addon/savein), enjoy !
 
 ## 💾 INSTALL
@@ -29,11 +29,9 @@ The add-on in sidebar is [saveIN : Your personal bookmarks](https://addons.mozil
 ## Some themes that fit well with classic tabs :  
 * [https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
 * [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)  
-* [https://addons.mozilla.org/en-US/firefox/addon/horizon3000](https://addons.mozilla.org/en-US/firefox/addon/horizon3000)  
-* [https://addons.mozilla.org/fr/firefox/addon/profiles_blue](https://addons.mozilla.org/fr/firefox/addon/profiles_blue)  
-* [https://addons.mozilla.org/fr/firefox/addon/profiles_cyan](https://addons.mozilla.org/fr/firefox/addon/profiles_cyan)  
-* [https://addons.mozilla.org/fr/firefox/addon/profiles_green](https://addons.mozilla.org/fr/firefox/addon/profiles_green)  
-* [https://addons.mozilla.org/fr/firefox/addon/profiles_orange](https://addons.mozilla.org/fr/firefox/addon/profiles_orange)  
-* [https://addons.mozilla.org/fr/firefox/addon/profiles_pink](https://addons.mozilla.org/fr/firefox/addon/profiles_pink)  
-* [https://addons.mozilla.org/fr/firefox/addon/profiles_purple](https://addons.mozilla.org/fr/firefox/addon/profiles_purple)  
-* [https://addons.mozilla.org/fr/firefox/addon/profiles_red](https://addons.mozilla.org/fr/firefox/addon/profiles_red)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profilepinkcolor](https://addons.mozilla.org/en-US/firefox/addon/profilepinkcolor)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profilegreencolor](https://addons.mozilla.org/en-US/firefox/addon/profilegreencolor)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profileredcolor](https://addons.mozilla.org/en-US/firefox/addon/profileredcolor)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor](https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor](https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor](https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor)   
