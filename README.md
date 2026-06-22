@@ -4,7 +4,7 @@
 
 ![preview](preview/preview.png)  
 <br>
-In this screenshot I use this theme [https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor](https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor)  
+In this screenshot I use this theme [https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor](https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor)  
 The add-on in sidebar is [saveIN : Your personal bookmarks](https://addons.mozilla.org/en-US/firefox/addon/savein), enjoy !
 
 ## 💾 INSTALL
