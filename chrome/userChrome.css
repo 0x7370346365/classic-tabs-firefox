@@ -59,3 +59,7 @@
     border-inline-start: 0!important;
   }
 }
+#sidebar-panel-header {
+  padding-bottom: 0!important;
+  padding-left: 15px!important;
+}
