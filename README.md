@@ -26,12 +26,14 @@ The add-on in sidebar is [saveIN : Your personal bookmarks](https://addons.mozil
 
 
 ## Some themes that fit well with classic tabs :  
-* [https://addons.mozilla.org/en-US/firefox/addon/blackwindow](https://addons.mozilla.org/en-US/firefox/addon/blackwindow/)
+* [https://addons.mozilla.org/en-US/firefox/addon/blackwindow](https://addons.mozilla.org/en-US/firefox/addon/blackwindow) (1)  
 * [https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
 * [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)  
 * [https://addons.mozilla.org/en-US/firefox/addon/profilepinkcolor](https://addons.mozilla.org/en-US/firefox/addon/profilepinkcolor)  
 * [https://addons.mozilla.org/en-US/firefox/addon/profilegreencolor](https://addons.mozilla.org/en-US/firefox/addon/profilegreencolor)  
 * [https://addons.mozilla.org/en-US/firefox/addon/profileredcolor](https://addons.mozilla.org/en-US/firefox/addon/profileredcolor)  
-* [https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor](https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor](https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor) (2) 
 * [https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor](https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor)  
 * [https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor](https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor)   
+
+(1) and (2) are displayed in the screenshot.
